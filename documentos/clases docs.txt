@@ -1,1 +1,6 @@
-https://gamma.app/docs/JAVA-Clase-1-kejm0q2soeisfnk?mode=doc
+Java after class: https://www.youtube.com/playlist?list=PL03ueGbdtz3RtzOJhUXTVL6uPlK7pNiSQ
+Java class: https://www.youtube.com/playlist?list=PL03ueGbdtz3QRu_3kLAidZoOrKvxc0jC4
+Java Doc: https://docs.google.com/document/d/1U7U8kO1MJ9EipkoywyU6Sl96I2t--aVQjYOrBWMg0VM/edit?tab=t.0
+
+clase1=    https://gamma.app/docs/JAVA-Clase-1-kejm0q2soeisfnk?mode=doc
+clase2=    https://gamma.app/docs/JAVA-CLASE-2-za4m2w3a8usdk4f?mode=doc
