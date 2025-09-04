@@ -6,5 +6,14 @@ public class Main {
       String message = "Hola😎 \"Entre comillas\" ";
       System.out.println(message); //Agrega salto de linea
       System.out.print(message); //Sin salto de linea
+
+      int numeroUno = 1;
+      int numeroDos = 20;
+
+      if(numeroUno < numeroDos){
+        System.out.println("El primer numero es menor");
+      }else{
+        System.out.println("El primer numero es mayor");
+      }
     }
   }
