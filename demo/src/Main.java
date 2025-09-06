@@ -10,10 +10,20 @@ public class Main {
       int numeroUno = 1;
       int numeroDos = 20;
 
+    int stock = 150;
+    int requerimiento = 200;
+
       if(numeroUno < numeroDos){
         System.out.println("El primer numero es menor");
       }else{
         System.out.println("El primer numero es mayor");
       }
+
+    if(stock < requerimiento){
+      System.out.println("No hay suficiente stock");
+    }else{
+      System.out.println("Stock disponible");
+    }
+
     }
   }
