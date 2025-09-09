@@ -4,3 +4,8 @@ Java Doc: https://docs.google.com/document/d/1U7U8kO1MJ9EipkoywyU6Sl96I2t--aVQjY
 
 clase1=    https://gamma.app/docs/JAVA-Clase-1-kejm0q2soeisfnk?mode=doc
 clase2=    https://gamma.app/docs/JAVA-CLASE-2-za4m2w3a8usdk4f?mode=doc
+ejercicio clase2= https://gamma.app/docs/Ejercicio-Clase-2-hi37ew33ce1t0g7?mode=doc
+clase3=    https://gamma.app/docs/Clase03-b3ctilf3i3y799m?mode=doc
+ejercicio clase3= https://gamma.app/docs/Ejercicio-Clase-3-nsiiwjoa2cw92hi?mode=doc
+clase4= https://gamma.app/docs/Clase04-y9b5ropqwm958zp?mode=doc
+ejercicio clase4= https://gamma.app/docs/Ejercicio-Clase-4-sqiw21r4ijdju98?mode=doc
